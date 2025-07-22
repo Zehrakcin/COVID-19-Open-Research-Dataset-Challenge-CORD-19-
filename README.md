@@ -5,7 +5,7 @@ Bu proje, Allen Institute for AI tarafından sağlanan [CORD-19](https://www.kag
 
 ---
 
-## 🔍 Kullanılan Dosya
+## Kullanılan Dosya
 
 - `metadata.csv`: Makalelere ait başlık, özet, tarih, yazar ve dergi bilgilerini içerir.
 
@@ -34,7 +34,7 @@ Bu proje, Allen Institute for AI tarafından sağlanan [CORD-19](https://www.kag
 
 ---
 
-## 📌 Kullanılan Kütüphaneler
+## Kullanılan Kütüphaneler
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
 - `sklearn.feature_extraction.text`
